@@ -1,0 +1,2 @@
+# DeezCoin
+A shitcoin 
